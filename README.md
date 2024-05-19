@@ -1,6 +1,6 @@
 ![3123123](https://github.com/PLADSS/PLADSS/assets/107814668/8a993f27-1788-489e-96b7-6f0491bb95b9)
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A student and junior developer from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pladss&label=Profile%20views&color=0e75b6&style=flat" alt="pladss" /> </p>
 
