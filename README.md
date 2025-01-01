@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **iyifark@gmail.com**
 
-- ⚡ Fun fact **I like history**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/furkan-erdoğuş-18654325a/" target="_blank" rel="noopener noreferrer">
@@ -27,8 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pladss&show_icons=true&locale=en" alt="pladss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pladss&" alt="pladss" /></p>
-
-![snake gif](https://github.com/PLADSS/PLADSS/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **PLADSS/PLADSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
